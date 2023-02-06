@@ -30,9 +30,6 @@
   <!-- Stack overflow -->
   <a href="https://stackoverflow.com/users/enock_254" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>
 
-  <!-- Other badges -->
-  <!--
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
 </p>
 
 <br/>
